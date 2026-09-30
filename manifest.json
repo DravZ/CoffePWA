@@ -1,7 +1,7 @@
 {
     "name": "DEV Coffe",
     "short_name": "DevCoffe",
-    "start_url": "index.html",
+    "start_url": "https://dravz.github.io/CoffePWA/",
     "display": "standalone",
     "background_color": "#db4938",
     "theme_color": "#fdfdfd",
